@@ -49,3 +49,5 @@ function checkAuthorizationV2() {
 
 listCerts(employee);
 console.log(checkAuthorizationV2(employee));
+
+console.log(!!undefined == false)
